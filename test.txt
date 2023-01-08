@@ -2,3 +2,5 @@ Bu bir test dosyasıdır. Değişiklik yapılıyor.
 Fetch kullanmadan değişiklik yapılıyor.
 
 Test branch oluşturuldu.
+
+Test branch oluşturuldu 2. 
