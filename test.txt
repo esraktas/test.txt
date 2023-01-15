@@ -3,6 +3,4 @@ Fetch kullanmadan değişiklik yapılıyor.
 
 Test branch oluşturuldu.
 
-Test branch oluşturuldu 2.
-
-Main branch revert test.
+Test branch oluşturuldu 2. 
